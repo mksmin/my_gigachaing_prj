@@ -1,4 +1,10 @@
 ```bash
-pip install mypy gigachain langchain-gigachat gigachain-community
+pip install mypy python-dotenv gigachain langchain-gigachat gigachain-community duckduckgo-search
+```
+
+
+### Содержание .env файла
+```
+GIGACHAT_AUTH_KEY=''
 ```
 
